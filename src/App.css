@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  min-height: 100vh;
+  background-color: #ebf9ff;
+}
+
+.h-80 {
+  min-height: 80vh;
+}
+
+.bg-blue {
+  background-color: #3c9fc9;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  color: grey;
+}
+
+a {
+  color: blue;
+}
+
+a:hover {
+  color: #4d94ff;
+}
+
+li {
+  list-style-type: none;
+  display: inline;
+}

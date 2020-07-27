@@ -1,0 +1,8 @@
+img {
+  max-width: 100%;
+}
+
+.project-row {
+  padding: 2%;
+  border-top: 1px solid grey;
+}

@@ -1,0 +1,20 @@
+.container * {
+  margin: auto;
+  /* width: 35vw; */
+}
+
+
+@media only screen and (max-width: 600px) {
+  .container h2, .container h4 {
+    text-align: center;
+    width: auto;
+  }
+
+  .container * {
+    /* width: 60vw; */
+  }
+}
+
+h6 {
+  font-size: large;
+}
