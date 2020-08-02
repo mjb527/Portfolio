@@ -2,11 +2,12 @@
   "name": "mern",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mjb527.github.io/Portfolio/",
+  "homepage": "https://mjb527.github.io/Portfolio",
   "dependencies": {
     "axios": "^0.18.0",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
+    "react-media": "^1.10.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^2.1.1"
   },

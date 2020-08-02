@@ -36,3 +36,30 @@ li {
   list-style-type: none;
   display: inline;
 }
+
+.aside-lg {
+  float: right;
+  max-width: 33%;
+  border-radius: 5px;
+  padding-left: 20px;
+
+}
+
+.aside-md {
+  float: right;
+  max-width: 50%;
+  border-radius: 5px;
+  padding: 10px 0px 10px 20px
+}
+
+.aside-sm {
+  float: right;
+  max-width: 65%;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+aside img {
+  border-radius: 5px;
+  border: 2px solid lightgrey;
+}

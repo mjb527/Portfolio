@@ -13,17 +13,17 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div>
         <Nav />
         <Switch>
-          <Route exact path={"/portfolio"}>
+          <Route exact path={"/"}>
             <Home />
           </Route>
-          <Route exact path="/contact">
+          <Route path="/contact">
             <Contact />
           </Route>
-          <Route exact path="/projects">
+          <Route path="/projects">
             <Portfolio />
           </Route>
           <Route>

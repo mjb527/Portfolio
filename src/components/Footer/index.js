@@ -18,7 +18,7 @@ function Footer() {
 
 
           <div className="p-absolute mt-2 row">
-            <div className="mx-5 footer-list-item col"><Link to="/portfolio" style={ linkStyles }>Home</Link></div>
+            <div className="mx-5 footer-list-item col"><Link to="/" style={ linkStyles }>Home</Link></div>
             <div className="mx-5 footer-list-item col"><Link to="/projects" style={ linkStyles }>Portfolio</Link></div>
             <div className="mx-5 footer-list-item col"><Link to="/contact" style={ linkStyles }>Contact</Link></div>
             <div className="mx-5 footer-list-item col"><a href="https://linkedin.com/in/matthew-batko" style={ linkStyles }>LinkedIn</a></div>
