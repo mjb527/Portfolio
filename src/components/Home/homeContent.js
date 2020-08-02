@@ -25,7 +25,7 @@ function HomeContent() {
 
       <div>Please be sure to check out my {<Link to="/portfolio" style={{ display: 'inline' }}>portfolio</Link>} to check out some of my work.</div>
 
-      <h2 className="my-4"><u>Beyond the Developer</u></h2>
+      <h3 className="my-4"><u>Beyond the Developer</u></h3>
       <p>
       Because of how much time I spend in front of screens working, I try to limit myself from looking at screens in my free time.
       I enjoy all sorts of outdoor activities, from team sports to hiking, skiing, or just sitting outside relaxing. I am an avid traveler as well,
